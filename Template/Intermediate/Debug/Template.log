@@ -1,0 +1,415 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  imgui_sdl.cpp
+  Background.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(11,15): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(11,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(11,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(11,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(11,15): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(12,16): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(12,16): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(12,16): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(12,16): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(12,16): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(25,17): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(25,17): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(25,17): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(25,17): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(25,17): warning C4244:         ]
+  Bullet1.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(26,17): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(26,17): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(26,17): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(26,17): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Background.cpp(26,17): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(11,15): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(11,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(11,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(11,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(11,15): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(12,16): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(12,16): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(12,16): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(12,16): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(12,16): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(24,17): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(24,17): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(24,17): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(24,17): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(24,17): warning C4244:         ]
+  CollisionManager.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(25,17): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(25,17): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(25,17): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(25,17): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Bullet1.cpp(25,17): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\CollisionManager.cpp(7,15): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\CollisionManager.cpp(7,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\CollisionManager.cpp(7,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\CollisionManager.cpp(7,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\CollisionManager.cpp(7,15): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\CollisionManager.cpp(8,15): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\CollisionManager.cpp(8,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\CollisionManager.cpp(8,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\CollisionManager.cpp(8,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\CollisionManager.cpp(8,15): warning C4244:         ]
+  DisplayObject.cpp
+  EndScene.cpp
+  Enemy1.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\CollisionManager.cpp(18,18): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(11,15): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(11,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(11,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(11,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(11,15): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(12,16): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(12,16): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(12,16): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(12,16): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(12,16): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(24,17): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(24,17): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(24,17): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(24,17): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(24,17): warning C4244:         ]
+  FontManager.cpp
+  Game.cpp
+  GameObject.cpp
+  Label.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(25,17): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(25,17): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(25,17): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(25,17): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Enemy1.cpp(25,17): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(15,15): warning C4244:  'argument': conversion from 'const T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(15,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(15,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(15,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(15,15): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(16,16): warning C4244:  'argument': conversion from 'const T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(16,16): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(16,16): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(16,16): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(16,16): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(25,38): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(25,38): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(25,38): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(25,38): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(25,38): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(25,23): warning C4244:  'initializing': conversion from 'T' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(25,23): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(25,23): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(25,23): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(25,23): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(26,38): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(26,38): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(26,38): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(26,38): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(26,38): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(26,23): warning C4244:  'initializing': conversion from 'T' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(26,23): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(26,23): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(26,23): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(26,23): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(50,15): warning C4244:  'argument': conversion from 'const T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(50,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(50,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(50,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(50,15): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(51,16): warning C4244:  'argument': conversion from 'const T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(51,16): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(51,16): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(51,16): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(51,16): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(70,15): warning C4244:  'argument': conversion from 'const T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(70,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(70,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(70,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(70,15): warning C4244:         ]
+  Level1Scene.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(71,16): warning C4244:  'argument': conversion from 'const T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(71,16): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(71,16): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(71,16): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Label.cpp(71,16): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Level1Scene.cpp(71,36): warning C4244:  '=': conversion from 'Sint32' to 'T', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Level1Scene.cpp(71,36): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Level1Scene.cpp(71,36): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Level1Scene.cpp(71,36): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Level1Scene.cpp(71,36): warning C4244:         ]
+  main.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Level1Scene.cpp(72,36): warning C4244:  '=': conversion from 'Sint32' to 'T', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Level1Scene.cpp(72,36): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Level1Scene.cpp(72,36): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Level1Scene.cpp(72,36): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Level1Scene.cpp(72,36): warning C4244:         ]
+  Mine.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\main.cpp(10,32): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(10,15): warning C4244:  'argument': conversion from 'const T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(10,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(10,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(10,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(10,15): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(11,16): warning C4244:  'argument': conversion from 'const T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(11,16): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(11,16): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(11,16): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(11,16): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(22,38): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(22,38): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(22,38): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(22,38): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(22,38): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(22,23): warning C4244:  'initializing': conversion from 'T' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(22,23): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(22,23): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(22,23): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(22,23): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(23,38): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(23,38): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(23,38): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(23,38): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(23,38): warning C4244:         ]
+  PathFindingDisplayObject.cpp
+  Planet.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(23,23): warning C4244:  'initializing': conversion from 'T' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(23,23): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(23,23): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(23,23): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Mine.cpp(23,23): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(10,15): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(10,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(10,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(10,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(10,15): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(11,16): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(11,16): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(11,16): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(11,16): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(11,16): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(22,38): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(22,38): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(22,38): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(22,38): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(22,38): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(22,23): warning C4244:  'initializing': conversion from 'T' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(22,23): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(22,23): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(22,23): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(22,23): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(23,38): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(23,38): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(23,38): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(23,38): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(23,38): warning C4244:         ]
+  Generating Code...
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(23,23): warning C4244:  'initializing': conversion from 'T' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(23,23): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(23,23): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(23,23): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Planet.cpp(23,23): warning C4244:         ]
+  Compiling...
+  Player.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\CollisionManager.cpp(47): warning C4715:  'CollisionManager::squaredRadiusCheck': not all control paths return a value
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(12,15): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(12,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(12,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(12,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(12,15): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(13,16): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(13,16): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(13,16): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(13,16): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(13,16): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(27,78): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(27,78): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(27,78): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(27,78): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(27,78): warning C4244:         ]
+  PlayScene.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(27,61): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(27,61): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(27,61): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(27,61): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Player.cpp(27,61): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(142,59): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(142,59): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(142,59): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(142,59): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(142,59): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(143,65): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(143,65): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(143,65): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(143,65): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(143,65): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(144,59): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(144,59): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(144,59): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(144,59): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(144,59): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(145,52): warning C4244:  'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(145,52): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(145,52): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(145,52): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(145,52): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(157,61): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(665,36): warning C4244:  '=': conversion from 'Sint32' to 'T', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(665,36): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(665,36): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(665,36): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(665,36): warning C4244:         ]
+  Scene.cpp
+  ship.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(666,36): warning C4244:  '=': conversion from 'Sint32' to 'T', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(666,36): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(666,36): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(666,36): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\PlayScene.cpp(666,36): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(14,15): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(14,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(14,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(14,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(14,15): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(15,16): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(15,16): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(15,16): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(15,16): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(15,16): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(34,38): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(34,38): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(34,38): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(34,38): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(34,38): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(34,23): warning C4244:  'initializing': conversion from 'T' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(34,23): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(34,23): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(34,23): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(34,23): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(35,38): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(35,38): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(35,38): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(35,38): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(35,38): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(35,23): warning C4244:  'initializing': conversion from 'T' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(35,23): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(35,23): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(35,23): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(35,23): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(115,35): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+  SoundManager.cpp
+  StartScene.cpp
+  Target.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\ship.cpp(115,22): warning C4244:  'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(10,15): warning C4244:  'argument': conversion from 'const T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(10,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(10,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(10,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(10,15): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(11,16): warning C4244:  'argument': conversion from 'const T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(11,16): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(11,16): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(11,16): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(11,16): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(23,38): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(23,38): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(23,38): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(23,38): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(23,38): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(23,23): warning C4244:  'initializing': conversion from 'T' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(23,23): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(23,23): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(23,23): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(23,23): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(24,38): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(24,38): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(24,38): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(24,38): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(24,38): warning C4244:         ]
+  TextureManager.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(24,23): warning C4244:  'initializing': conversion from 'T' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(24,23): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(24,23): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(24,23): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Target.cpp(24,23): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(75,36): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(75,21): warning C4244:  'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(76,37): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(76,21): warning C4244:  'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(119,36): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(119,21): warning C4244:  'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(120,37): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(120,21): warning C4244:  'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(162,36): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(162,21): warning C4244:  'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(163,37): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(163,21): warning C4244:  'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(206,36): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(206,21): warning C4244:  'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(207,37): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(207,21): warning C4244:  'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(236,36): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(236,21): warning C4244:  'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(237,37): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(237,21): warning C4244:  'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(256,11): warning C4244:  '=': conversion from 'int' to 'T', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(256,11): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(256,11): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(256,11): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(256,11): warning C4244:         ]
+  Tile.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(257,11): warning C4244:  '=': conversion from 'int' to 'T', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(257,11): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(257,11): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(257,11): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\TextureManager.cpp(257,11): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(15,15): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(15,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(15,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(15,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(15,15): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(16,16): warning C4244:  'argument': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(16,16): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(16,16): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(16,16): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(16,16): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(45,38): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(45,38): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(45,38): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(45,38): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(45,38): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(45,23): warning C4244:  'initializing': conversion from 'T' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(45,23): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(45,23): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(45,23): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(45,23): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(46,38): warning C4244:  'initializing': conversion from 'T' to 'int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(46,38): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(46,38): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(46,38): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(46,38): warning C4244:         ]
+  Util.cpp
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(46,23): warning C4244:  'initializing': conversion from 'T' to 'const int', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(46,23): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(46,23): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(46,23): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Tile.cpp(46,23): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(229,15): warning C4244:  '=': conversion from 'double' to 'T', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(229,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(229,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(229,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(229,15): warning C4244:         ]
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(230,15): warning C4244:  '=': conversion from 'double' to 'T', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(230,15): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(230,15): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(230,15): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(230,15): warning C4244:         ]
+  Generating Code...
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(246,16): warning C4244:  '=': conversion from 'double' to 'T', possible loss of data
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(246,16): warning C4244:         with
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(246,16): warning C4244:         [
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(246,16): warning C4244:             T=float
+D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\src\Util.cpp(246,16): warning C4244:         ]
+  Template.vcxproj -> D:\KBG\Centennial-College\COMP397_Winter_2020\Assignment 2\Assignment 3\bin\Debug\Template.exe
